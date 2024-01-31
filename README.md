@@ -5,4 +5,17 @@ The purpose of this tool is to provide a quick response for multiple nmap questi
 # USAGE
 
 First of all, we need to know the IP address of the target and where the scan output will be. After learning these, use the `python3 nface.py -t <target-ip-address> -o <output-destination>` command to start the tool. 
-<br><br>Like `python3 nface.py -t 10.0.2.4 -o /tmp/nface_output.txt`
+<br><br>Like 
+```
+python3 nface.py -t 10.0.2.4 -o /tmp/nface_output.txt
+```
+<br><br>
+The user inputs which scan wants to perform:
+
+![1](https://github.com/cozuxhub/nface/assets/152704509/9659af0d-5c21-4eda-8533-8809520c0273)<br><br>
+
+And the scan starts:
+
+![2](https://github.com/cozuxhub/nface/assets/152704509/78d99604-4348-4396-ae63-ec63e914c3c1)<br><br>
+
+
