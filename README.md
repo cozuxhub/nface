@@ -19,4 +19,6 @@ And the scan starts:
 
 ![2](https://github.com/cozuxhub/nface/assets/152704509/78d99604-4348-4396-ae63-ec63e914c3c1)<br><br>
 
+> Refactoring has been done with artificial intelligence!
+
 
